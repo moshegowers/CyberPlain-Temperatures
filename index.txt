@@ -1,0 +1,4 @@
+{ 
+	Key: SYNAKEY_0220_YHVD 
+	PRODUCT-Number: 123 
+} 
