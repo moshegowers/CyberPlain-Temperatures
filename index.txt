@@ -1,4 +1,4 @@
 { 
-	Key: SYNAKEY_0220_YHVD 
+	Key: UNICKKEY_0220_YHVD 
 	PRODUCT-Number: 123 
 } 
